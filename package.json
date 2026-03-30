@@ -9,5 +9,7 @@
   "keywords": [],
   "author": "lukaisrael4-stack",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
